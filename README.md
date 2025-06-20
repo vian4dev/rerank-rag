@@ -36,7 +36,8 @@ As tecnologias utilizadas incluem a Cohere API, responsável pela geração de e
 ## 📷 Demostração
 Apresentação do esquema da aplicação.
 <div align="center">
-  <img src="./.github/arquitetura-rerank-rag.png" alt="arquitetura-rerank-rag" />
+  <img src="./.github/arquitetura-rerank-rag-01.png" alt="arquitetura-rerank-rag" />
+  <img src="./.github/arquitetura-rerank-rag-02.png" alt="arquitetura-rerank-rag" />
 </div>
 
 ## 🔥 Instalação
